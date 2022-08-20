@@ -1,6 +1,9 @@
 
 <DOCTYPE html>
 <html>
+<head>
+https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.google.com/adsense/signup&ved=2ahUKEwiYt5nOyMn5AhVHmqQKHbXICRYQFnoECD0QAQ&usg=AOvVaw27_V7X5RPHzUOEdMjj6Ruj
+<head/>
  <meta charset="UTF-8"/>
 <meta name="viewport"
   content="width=device-width, initial-scale=1.0"/>
