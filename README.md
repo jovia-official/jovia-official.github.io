@@ -2,7 +2,8 @@
 <DOCTYPE html>
 <html>
 <head>
-https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.google.com/adsense/signup&ved=2ahUKEwiYt5nOyMn5AhVHmqQKHbXICRYQFnoECD0QAQ&usg=AOvVaw27_V7X5RPHzUOEdMjj6Ruj
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1852129839611650"
+     crossorigin="anonymous"></script>
 <head/>
  <meta charset="UTF-8"/>
 <meta name="viewport"
