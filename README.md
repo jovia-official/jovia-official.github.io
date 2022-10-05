@@ -12,7 +12,7 @@
 <body>
 <center><img src="https://drive.google.com/uc?view&id=10VFQ88SHrjWSsPC3dLAsIlRCqswkUY05"/></center><br>
 <center>
-<head6 style="color:green">
+<head6 style="color:#00800">
 What Is Cryptocurrency Trading?</head6></center>
 <br>
 Cryptocurrency trading means taking a financial position on the price direction of individual cryptocurrencies against the dollar (in crypto/dollar pairs) or against another crypto, via crypto to crypto pairs. CFDs (contracts for difference) are a particularly popular way to trade cryptocurrencies as they allow for greater flexibility, the use of leverage and the ability to take short as well as long positions
